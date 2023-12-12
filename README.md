@@ -15,7 +15,7 @@ Our material is public and always available for reference. **[Click here to see 
 
 ## Information for workshop leaders
 
-* [Workshop templates](https://mcgill-micm.github.io/Workshop_Template/) 
+* [Workshop repository template](https://mcgill-micm.github.io/Workshop_Template/) 
 
 ## Get Involved  
 We are always looking for motivated students to join us. Whereas it is as teaching or assisting in a workshop or as being part of our executive team.
