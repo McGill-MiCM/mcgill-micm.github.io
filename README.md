@@ -12,7 +12,7 @@ To register our workshops please visit our events in [MyInvolvement](https://inv
 ## Course Material
 Our material is public and always available for reference. **[Click here to see past material](https://mcgill-micm.github.io/McGill-MiCM/).**
 
-## Information for workshop leader
+## Information for workshop leaders
 
 * [Workshop templates](https://github.com/McGill-MiCM/Workshop_Template) 
 
