@@ -11,7 +11,7 @@ Never miss out on new workshops and events! **Sign up to our [newsletter](https:
 To register our workshops please visit our events in [MyInvolvement](https://involvement.mcgill.ca/organization/micm)
 
 ## Course Material
-Our material is public and always available for reference. **[Click here to see past material](https://mcgill-micm.github.io/McGill-MiCM/).**
+Our material is public and always available for reference. **[Click here to see past material](https://mcgill-micm.github.io/MicM-Mcgill/).**
 
 ## Information for workshop leaders
 
