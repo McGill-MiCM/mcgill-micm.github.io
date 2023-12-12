@@ -24,5 +24,10 @@ We are always looking for motivated students to join us. Whereas it is as teachi
 * For teaching opportunities, fill out [this form](https://mcusercontent.com/96c33ccd875824868ab5f97d1/files/ccc1343e-d314-022d-a33c-fc5e38fe31de/MiCM_Employment_application_form_Winter_2023.pdf)
 * Check out our current [open positions](https://www.mcgill.ca/micm/job-opportunities)
 
+## Recognition 
+Participation in our workshops is official recognized by McGill via the (co-curricular record (CCR))[https://www.mcgill.ca/involvement/ccr]. [^1]
+![](https://www.mcgill.ca/micm/files/micm/styles/wysiwyg_medium/public/mcgill_ccr_get-involved_seal_final_white_1.jpg?itok=_Szn_IWz) 
+
+^1 
 ---  
 Contact Info: **Email us at workshop-micm@mcgill.ca**.
