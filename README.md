@@ -2,7 +2,8 @@
 ![](https://user-images.githubusercontent.com/58442767/204903856-48c6178b-d553-416a-ad93-b864f48d73e7.png) 
 
 # Welcome to the MiCM!
-Our organization aims to advance biomedical research at McGill by providing researchers with workshops and boot camps on crucial skills and tools for Bioinformatics research. Our courses cover a range of skill levels to ensure all researchers can use our platform to advance their research. 
+
+Data collection in the life sciences, including biomedical research in the laboratory and healthcare in the clinic, is taking place at an unprecedented scale. To respond to the opportunity of a better use of data and computational methods in Medicine, we created a new Initiative within the Faculty of Medicine: the McGill initiative in Computational Medicine (MiCM).
 
 Never miss out on new workshops and events! **Sign up to our [newsletter](https://forms.gle/ShT3Yab18aCu1PQP8).**
 
