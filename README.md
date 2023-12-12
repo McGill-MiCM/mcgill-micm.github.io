@@ -25,4 +25,4 @@ We are always looking for motivated students to join us. Whereas it is as teachi
 * Check out our current [open positions](https://www.mcgill.ca/micm/job-opportunities)
 
 ---  
-Contact Info: ** Email us at workshop-micm@mcgill.ca **.
+Contact Info: **Email us at workshop-micm@mcgill.ca**.
