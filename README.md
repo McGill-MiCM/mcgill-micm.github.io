@@ -3,7 +3,7 @@
 
 # Welcome to the MiCM!
 
-Data collection in the life sciences, including biomedical research in the laboratory and healthcare in the clinic, is taking place at an unprecedented scale. To respond to the opportunity of a better use of data and computational methods in Medicine, we created a new Initiative within the Faculty of Medicine: the McGill initiative in Computational Medicine (MiCM).
+Data collection in the life sciences, including biomedical research in the laboratory and healthcare in the clinic, is taking place at an unprecedented scale. To respond to the opportunity of a better use of data and computational methods in Medicine, we created a new Initiative within the Faculty of Medicine: the McGill initiative in Computational Medicine (MiCM).  
 For more information visit our [official McGill webpage](https://www.mcgill.ca/micm/).
 
 Never miss out on new workshops and events! **Sign up to our [newsletter](https://forms.gle/ShT3Yab18aCu1PQP8).**
