@@ -4,7 +4,7 @@
 # Welcome to the MiCM!
 Our organization aims to advance biomedical research at McGill by providing researchers with workshops and boot camps on crucial skills and tools for Bioinformatics research. Our courses cover a range of skill levels to ensure all researchers can use our platform to advance their research. 
 
-Never miss out on new workshops and events! **Sign up to our [mailing list](https://forms.gle/ShT3Yab18aCu1PQP8).**
+Never miss out on new workshops and events! **Sign up to our [newsletter](https://forms.gle/ShT3Yab18aCu1PQP8).**
 
 ## Registration
 To register our workshops please visit our events in [MyInvolvement](https://involvement.mcgill.ca/organization/micm)
