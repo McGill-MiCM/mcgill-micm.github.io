@@ -25,7 +25,7 @@ We are always looking for motivated students to join us. Whereas it is as teachi
 * Check out our current [open positions](https://www.mcgill.ca/micm/job-opportunities)
 
 ## Recognition 
-Participation in our workshops is official recognized by McGill via the (co-curricular record (CCR))[https://www.mcgill.ca/involvement/ccr]. [^1]  
+Participation in our workshops is official recognized by McGill via the [co-curricular record (CCR)](https://www.mcgill.ca/involvement/ccr). [^1]  
 
 ![](https://www.mcgill.ca/micm/files/micm/styles/wysiwyg_medium/public/mcgill_ccr_get-involved_seal_final_white_1.jpg?itok=_Szn_IWz) 
 
